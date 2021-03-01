@@ -4,7 +4,8 @@
     <img alt="License" src="https://img.shields.io/badge/license-MIT-6E40C9?style=flat-square">
 </a>
 
-# move.it
+# move.it 
+<img src="https://github.com/vLeeH/move.it/blob/main/public/favicon.png">
 
 Move.it is an App that uses the pomodoro technique, in order to improve your productivity and focus. Developed during <a href="https://rocketseat.com.br/">Rocketseat's</a> Next Level Week #4.
 
