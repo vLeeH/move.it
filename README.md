@@ -46,5 +46,5 @@ Discord - `Lee. #1001`
 
 Mail - <a>vitorlee.tech@gmail.com</a>
 
-## Author 
+### Author 
 → <a href="https://github.com/vleeh">vLeeH</a>
