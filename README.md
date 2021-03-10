@@ -2,6 +2,7 @@
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/vLeeH/move.it?color=6E40C9&style=flat-square"> <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/martins-rafael/moveIt?color=6E40C9&style=flat-square"><a href="https://opensource.org/licenses/MIT">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-6E40C9?style=flat-square">
 </a>
+
 Move.it is an App that uses the pomodoro technique, in order to improve your productivity and focus. Developed during <a href="https://rocketseat.com.br/">Rocketseat's</a> Next Level Week #4.
 
 ## Techs 🔧 
