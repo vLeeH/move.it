@@ -5,7 +5,7 @@
 
 Move.it is an App that uses the pomodoro technique, in order to improve your productivity and focus. Developed during <a href="https://rocketseat.com.br/">Rocketseat's</a> Next Level Week #4.
 
-## Techs 🔧 
+## Technologies🔧 
 Technologies and tools used in this project:
 - React
 - Next JS
@@ -21,7 +21,7 @@ $ git clone https://github.com/martins-rafael/moveIt.git `
 
 $ cd move.it
 
-$ npm start dev 
+$ npm run dev 
 ```
 
 **yarn**
@@ -32,7 +32,7 @@ $ cd move.it
 
 $ yarn install 
 
-$ yarn start dev
+$ yarn run dev
 ```
 
 ## Why? 
