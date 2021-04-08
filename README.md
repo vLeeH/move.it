@@ -17,11 +17,11 @@ Technologies and tools used in this project:
 ## Installation 📁
 **npm**
 ```
-$ git clone https://github.com/martins-rafael/moveIt.git 
+git clone https://github.com/martins-rafael/moveIt.git 
 
-$ cd move.it
+cd move.it
 
-$ npm run dev 
+npm run dev 
 ```
 
 **yarn**
