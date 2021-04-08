@@ -26,13 +26,13 @@ $ npm run dev
 
 **yarn**
 ```
-$ git clone https://github.com/martins-rafael/moveIt.git 
+git clone https://github.com/martins-rafael/moveIt.git 
 
-$ cd move.it
+cd move.it
 
-$ yarn install 
+yarn install 
 
-$ yarn run dev
+yarn run dev
 ```
 
 ## Why? 
