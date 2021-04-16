@@ -30,7 +30,7 @@ cd move.it
 
 yarn install 
 
-yarn run dev
+yarn dev
 ```
 
 ## Why? 
