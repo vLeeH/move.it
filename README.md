@@ -1,7 +1,9 @@
-# move.it
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/vLeeH/move.it?color=6E40C9&style=flat-square"> <img alt="License" src="https://img.shields.io/badge/license-MIT-6E40C9?style=flat-square">
+<h1 align="center">move.it</h1>
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/vLeeH/move.it?color=6E40C9&style=flat-square"> <img alt="License"         src="https://img.shields.io/badge/license-MIT-6E40C9?style=flat-square">
+</p>
 
-Move.it is an App that uses the pomodoro technique, in order to improve your productivity and focus. Developed during <a href="https://rocketseat.com.br/">Rocketseat's</a> Next Level Week #4.
+<p align="center">Move.it is an App that uses the pomodoro technique, in order to improve your productivity and focus. Developed during <a href="https://rocketseat.com.br/">Rocketseat's</a> Next Level Week #4. </p>
 
 ## Technologies🔧 
 Technologies and tools used in this project:
@@ -41,5 +43,5 @@ Discord - `Lee. #1001`
 
 Mail - <a>vitorlee.tech@gmail.com</a>
 
-### Author 
-→ <a href="https://github.com/vleeh">vLeeH</a>
+## Author 
+Developed by <a href="https://github.com/vleeh">vLeeH</a>
