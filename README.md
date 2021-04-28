@@ -43,5 +43,4 @@ Discord - `Lee. #1001`
 
 Mail - <a>vitorlee.tech@gmail.com</a>
 
-## Author 
-Developed by <a href="https://github.com/vleeh">vLeeH</a>
+<h2 align="center">Developed by vLeeH</h2> 
