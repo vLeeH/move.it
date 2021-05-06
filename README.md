@@ -39,7 +39,7 @@ yarn dev
 
 This project is part of my personal portfolio and learn about React JS, so, I'll be happy if you could provide me any feedback about the project, code, structure or anything that you can report that could make me a better developer!
 
-Discord - `Lee.#2016`
+Discord - `Lee.#6989`
 
 Mail - <a>vitorlee.tech@gmail.com</a>
 
