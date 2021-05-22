@@ -43,4 +43,4 @@ Discord - `Lee.#3800`
 
 Mail - <a>vitorlee.tech@gmail.com</a>
 
-<h2 align="center">Developed by vLeeH</h2> 
+<h2 align="center">by vLeeH</h2> 
