@@ -1,5 +1,5 @@
-<h1 align="center">move.it</h1>
-<p align="center">
+<h1>move.it</h1>
+<p>
   <img alt="language count" src="https://img.shields.io/github/languages/count/vLeeH/move.it?color=6E40C9&style=flat-square"> <img alt="License"         src="https://img.shields.io/badge/license-MIT-6E40C9?style=flat-square">
 </p>
 
@@ -15,6 +15,7 @@ Technologies and tools used in this project:
 
 
 ## Installation 📁
+Install the project in your PC or see the deploy in vercel <a href="https://nlw-4moveit.vercel.app/">here</a>
 **npm**
 ```
 git clone https://github.com/martins-rafael/moveIt.git 
