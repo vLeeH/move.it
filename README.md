@@ -41,8 +41,6 @@ yarn dev
 
 This project is part of my personal portfolio and learn about React JS.
 
-Discord - `Lee.#3800`
-
-Mail - <a>vitorlee.tech@gmail.com</a>
+Discord - `Lee.#2037`
 
 <h2 align="center">by vLeeH</h2> 
