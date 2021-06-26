@@ -41,6 +41,6 @@ yarn dev
 
 This project is part of my personal portfolio and learn about React JS.
 
-Discord - `Lee.#2037`
+Discord - `rlee#2037`
 
 <h2 align="center">by vLeeH</h2> 
